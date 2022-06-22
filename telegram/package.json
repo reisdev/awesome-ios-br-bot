@@ -1,0 +1,16 @@
+{
+  "name": "awesome-ios-pt-bot-telegram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.6",
+    "nodemon": "^2.0.16",
+    "telegraf": "^4.8.5"
+  }
+}
